@@ -15,7 +15,7 @@ the first time you open it.
 
 ### [⬇ Download Ludin for Android](https://github.com/PrranitArora/Ludin-Downloads/raw/main/Ludin.apk)
 
-Version 1.0 · Android 5.1 or newer · about 4.5 MB
+Version 1.0.1 · Android 5.1 or newer · about 4.6 MB
 
 Open this page **on your Android phone**, then:
 
